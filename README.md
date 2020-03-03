@@ -4,4 +4,4 @@
 
 建议使用[Typora](https://www.typora.io/)来阅读本教程，以便查看笔记的大纲，效果如下
 
-![](img\xiaoguo.png)
+![](https://website-of-lwh.oss-cn-hongkong.aliyuncs.com/sw/xiaoguo.png)
